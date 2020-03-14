@@ -14,3 +14,6 @@
 * Peizo
 * Servo motor
 * Jumber wires
+
+
+![Diagram](Knock_Lock_Diagram.png)
